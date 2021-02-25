@@ -29,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
@@ -78,41 +79,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="215" key="#Project_Structure" timestamp="1605007765319">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="558" y="26" key="CommitChangelistDialog2" timestamp="1614253530874">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="617" y="215" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1605007765319" />
-    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605019640189">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1605019640189" />
+    <state x="558" y="26" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614253530874" />
     <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1605940908695">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1605940908695" />
-    <state width="1002" height="285" key="GridCell.Tab.0.bottom" timestamp="1605020870703">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1002" height="285" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605020870703" />
-    <state width="1002" height="285" key="GridCell.Tab.0.center" timestamp="1605020870703">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1002" height="285" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605020870703" />
-    <state width="1002" height="285" key="GridCell.Tab.0.left" timestamp="1605020870702">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1002" height="285" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605020870702" />
-    <state width="1002" height="285" key="GridCell.Tab.0.right" timestamp="1605020870703">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="1002" height="285" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605020870703" />
-    <state x="526" y="199" key="SettingsEditor" timestamp="1605523213300">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="526" y="199" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1605523213300" />
-    <state x="821" y="334" key="chooseDestDirectoryDialog" timestamp="1605014638524">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="821" y="334" key="chooseDestDirectoryDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1605014638524" />
   </component>
 </project>
